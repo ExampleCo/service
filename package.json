@@ -29,6 +29,10 @@
     "start:watch": "nodemon",
     "test": "jest"
   },
+  "dependencies": {
+    "@exampleco/package-a": "^1.0.1",
+    "@exampleco/package-b": "^1.0.1"
+  },
   "devDependencies": {
     "@jessety/eslint-config": "^1.0.6",
     "@types/jest": "^26.0.20",
