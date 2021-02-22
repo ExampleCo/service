@@ -1,15 +1,15 @@
 {
-  "name": "boilerplate-typescript-service",
+  "name": "@exampleco/service",
   "version": "1.0.0",
   "private": true,
   "description": "",
-  "homepage": "https://github.com/jessety/boilerplate-typescript-service#readme",
+  "homepage": "https://github.com/exampleco/service#readme",
   "bugs": {
-    "url": "https://github.com/jessety/boilerplate-typescript-service/issues"
+    "url": "https://github.com/exampleco/service/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jessety/boilerplate-typescript-service.git"
+    "url": "git+https://github.com/exampleco/service.git"
   },
   "license": "MIT",
   "author": "Jesse Youngblood",
