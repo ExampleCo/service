@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@exampleco/package-a": "^1.0.1",
+    "@exampleco/package-a": "^1.0.4",
     "@exampleco/package-b": "^1.0.1"
   },
   "devDependencies": {
